@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mohitxsh/Movie-Libr">
+  <a href="https://github.com/Smitmodi21/MovieFlix">
     <img src="assets/movie-libr.png" alt="Logo" width="80" height="80">
   </a>
   <!-- TABLE OF CONTENTS -->
@@ -23,7 +23,7 @@
     <br />
     <a href="https://frozen-stream-46804.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/mohitxsh/Movie-Libr/issues">Report Bug</a>
+    <a href="">Report Bug</a>
     ·
     <a href="https://github.com/mohitxsh/Movie-Libr/issues">Request Feature</a>
   </p>
