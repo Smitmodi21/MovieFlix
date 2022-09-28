@@ -1,7 +1,7 @@
 {
-  "name": "movie-libr",
+  "name": "MovieFlix",
   "version": "1.0.0",
-  "description": "Movie Library done for fasal.co",
+  "description": "Movie info app using MERN",
   "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
