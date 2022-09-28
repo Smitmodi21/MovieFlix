@@ -23,16 +23,17 @@
     <br />
     <a href="https://frozen-stream-46804.herokuapp.com/">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/Smitmodi21/MovieFlix/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mohitxsh/Movie-Libr/issues">Request Feature</a>
+    <a href="https://github.com/Smitmodi21/MovieFlix/issues">Request Feature</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Movie Library Screen Shot](https://github.com/mohitxsh/Movie-Libr/blob/main/assets/home.png)
+![Movie Library Screen Shot]()![home](https://user-images.githubusercontent.com/60734815/192861846-bf9637c3-6161-4b45-86fa-d20ea5dc63cf.png)
+
 
 A MERN movie library application with a focus on user friendly UI and many functionalities.
 
