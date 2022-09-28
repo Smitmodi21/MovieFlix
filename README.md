@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Movie Library Screen Shot]()![home](https://user-images.githubusercontent.com/60734815/192861846-bf9637c3-6161-4b45-86fa-d20ea5dc63cf.png)
+![Movie Library Screen Shot](https://user-images.githubusercontent.com/60734815/192861846-bf9637c3-6161-4b45-86fa-d20ea5dc63cf.png)
 
 
 A MERN movie library application with a focus on user friendly UI and many functionalities.
