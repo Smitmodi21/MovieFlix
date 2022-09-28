@@ -44,8 +44,10 @@ Some of the features are:
 * Users can create custom movie playlists. A playlist can either be public or private. Public playlist link is available on the playlist page once signed in. Public playlists can be viewed by anyone without any authentication!
 
 Some more screenshots:
-![Movie Library-Login Screen Shot](https://github.com/mohitxsh/Movie-Libr/blob/main/assets/login.png)
-![Movie Library-Details Screen Shot](https://github.com/mohitxsh/Movie-Libr/blob/main/assets/batman.png)
+![Movie Library-Login Screen Shot](https://user-images.githubusercontent.com/60734815/192862974-e01163c9-0a1e-43aa-b704-f64c9ad294d0.png)
+
+![Movie Library-Details Screen Shot](https://user-images.githubusercontent.com/60734815/192863113-2dc36cf2-c4a9-4f3b-ab1e-7f87c6746661.png)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
